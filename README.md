@@ -49,10 +49,10 @@ Each folder contains:
 
 ---
 
-📈 Progress
+## 📈 Progress
 I aim to solve at least 3–5 problems every day, gradually covering all DSA topics.
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 K.Nandhakumar – Full Stack Developer
 GitHub: https://github.com/KNandhakumar
 LinkedIn: www.linkedin.com/in/nknandhakumar
