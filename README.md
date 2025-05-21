@@ -22,6 +22,7 @@ To strengthen my problem-solving skills, improve my DSA concepts, and stay consi
 
 ## 📂 Folder Structure
 
+```text
 gfg-solutions/
 ├── Arrays/
 ├── Strings/
