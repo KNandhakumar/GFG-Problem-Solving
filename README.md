@@ -53,6 +53,6 @@ Each folder contains:
 I aim to solve at least 3–5 problems every day, gradually covering all DSA topics.
 
 ## 🧑‍💻 Author
-K.Nandhakumar – Full Stack Developer
-GitHub: https://github.com/KNandhakumar
-LinkedIn: www.linkedin.com/in/nknandhakumar
+K.Nandhakumar – Full Stack Developer<br>
+GitHub: https://github.com/KNandhakumar<br>
+LinkedIn: www.linkedin.com/in/nknandhakumar<br>
