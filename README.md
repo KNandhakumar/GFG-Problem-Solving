@@ -1,4 +1,4 @@
-# GeeksforGeeks DSA Practice 🧠💻
+# GeeksforGeeks DSA Practice 2025🧠💻
 
 Welcome to my **GFG Problem Solving Journey**!  
 Here I solve a variety of **Data Structures & Algorithms** problems using **Java**, aiming for optimized and clean solutions.
