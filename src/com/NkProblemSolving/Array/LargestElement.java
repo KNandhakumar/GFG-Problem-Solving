@@ -7,6 +7,8 @@ public class LargestElement {
         int ans = largest(arr);
         System.out.println(ans);
     }
+    // time complexity big O(n)
+    // space complexity big O(n)
     public static int largest(int[] arr) {
         int large = arr[0];
         for (int i = 0; i < arr.length; i++) {
